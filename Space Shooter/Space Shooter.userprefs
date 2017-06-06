@@ -1,13 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyByContact.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EvasiveManeuver.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="9" Column="1" />
-      <File FileName="Assets/Scripts/DestoyByBoundary.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/RandomRotator.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="25" Column="32" />
-      <File FileName="Assets/Scripts/GameController.cs" Line="45" Column="69" />
-      <File FileName="Assets/Scripts/DestroyByTime.cs" Line="12" Column="32" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="58" Column="68" />
+      <File FileName="Assets/Scripts/WeaponController.cs" Line="10" Column="24" />
+      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="34" Column="3" />
+      <File FileName="Assets/Scripts/EvasiveManeuver.cs" Line="25" Column="34" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
